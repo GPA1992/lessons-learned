@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(253, 251, 251);
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    
+}
+#cabecalho{
+    border: 2px solid rgb(0, 0, 0);
+    background-color: grey;   
+    text-align: center;
+    position: fixed;
+    top: 0;
+    height: 50px;
+    width: 100%;
+    
+}
+
+nav {
+    margin-top: 60px;
+   
+    padding: 10px;
+    border: 2px solid rgb(0, 0, 0);
+
+}
+
+
+#group{
+    border: 2px solid rgb(0, 0, 0);
+    display: inline-block;
+
+   
+}
+
+#licoes_aprendidas{
+    background-color: rgba(137, 43, 226, 0.411);
+    border: 2px solid rgb(0, 0, 0);
+}
+
+#licoes_a_aprender{
+    background-color: rgba(0, 128, 0, 0.37);
+    border: 2px solid rgb(0, 0, 0);
+
+}
+#link1 {
+    border: 2px solid black;
+    background-color: blue;
+
+
+}
+section{
+    
+    border: 2px solid rgb(0, 0, 0);
+}
+
+#tabela{
+    
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+footer{
+    border: 2px solid rgb(0, 0, 0);   
+}
